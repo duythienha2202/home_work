@@ -1,4 +1,5 @@
 #include "..\include\Convert.h"
+#include <stdio.h>
 
 void DecimalToBinary(int num)
 {
